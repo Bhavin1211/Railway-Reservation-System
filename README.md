@@ -1,0 +1,2 @@
+# Railway-Reservation-System
+Railway Reservation System in a web based project and it has been developed in PHP and MySQL and admin can manage users, station details, view booking, manage trains, view feedback etc…. and user can register, login, manage profile, book train, feedback etc….. from this project. Main object to develop Railway Reservation System in PHP and MySQL project is to overcome the manual errors and make a computerized system. In this project there are various type of modules available to manage trains, stations and users.
